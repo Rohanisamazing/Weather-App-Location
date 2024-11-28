@@ -13,8 +13,8 @@ A dynamic weather application built with HTML, Tailwind CSS, and JavaScript. It 
 
 ## Tech Stack
 
-- **HTML**: For structure.
-- **Tailwind CSS**: For styling.
+- **HTML**: For structure and its main body.
+- **Tailwind CSS**: For styling purpose.
 - **JavaScript**: For interactivity and API integration.
 - **OpenWeather API**: To fetch weather data.
 - **OpenCage API**: To fetch location data.
